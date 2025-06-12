@@ -1,0 +1,17 @@
+{
+    "name": "magisch/gravity-pdf-stubs",
+    "type": "library",
+    "license": "GPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "Magisch\\GravityPdfStubs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damian Elenbaas",
+            "email": "damianelenbaas2003@gmail.com"
+        }
+    ],
+    "require": {}
+}
